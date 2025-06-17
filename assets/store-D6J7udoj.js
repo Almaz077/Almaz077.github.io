@@ -1,0 +1,1 @@
+import{c as o}from"./shallow-Bm4ufq9Z.js";const m=o(e=>({indications:{},setIndications(s){e({indications:{...s}})},smsText:"",phoneNumber:"",setPhoneNumber(s){e({phoneNumber:s})},smsWebText:"",setSms(s){console.log("new sms: ",s),e({smsText:s})},setSmsWeb(s){console.log("new sms for web: ",s),e({smsWebText:s})}}));export{m as u};
